@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('./fonts/Roboto-VariableFont_wdth,wght.ttf') format('truetype');
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+table  {
+    border-collapse: collapse;
+}
+
+th {
+    background: lightgrey;
+    text-align: center;
+}
+
+th, td {
+    border-bottom: 1px solid #b0a160;
+}

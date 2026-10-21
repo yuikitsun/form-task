@@ -1,0 +1,14 @@
+div {
+    background-color: #808080;
+    width: 300px;
+}
+.p-1 {
+    font-size: 12px;
+}
+.p-2 {
+    font-size: 25px;
+    background-color: #00FF00;
+}
+.p-3 {
+    font-size: 17px;
+}
